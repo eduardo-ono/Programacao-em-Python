@@ -5,6 +5,12 @@ Prof. Eduardo Ono
 
 <br>
 
+## Conmceitos
+
+> NumPy é uma biblioteca Python que facilita a execução de cálculos em arrays multidimensionais.
+
+&nbsp;
+
 ## Cursos Introdutórios
 
 | Thumb | Descrição |

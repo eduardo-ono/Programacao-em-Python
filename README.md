@@ -1,11 +1,13 @@
 
-<h1 align="center">
-Programação em Python
-</h1>
+<div align="center">
 
-<h4 align="center">Prof. Eduardo Ono</h4>
+# Programação em Python
 
-<br>
+__Prof. Eduardo Ono__
+
+</div>
+
+&nbsp;
 
 ## Descrição
 
@@ -31,19 +33,16 @@ Programação em Python
 | 05 | Estruturas de Controle: Estruturtas de Repetição
 | 06 | Funções Definidas pelo Usuário
 | 07 | Recursão
-| 08 | Programação Orientada a Objetos (POO)
-| 09 | POO - Classes e Objetos
-| 10 | POO - Herança e Polimorfismo
-| 11 | Estrutura de Dados (ED) - Fundamentos
-| 12 | ED - Contaioners: Listas, Dicionários e Tuplas
+| 08 | Containers/Iterables: Listas, Dicionários e Tuplas
+| 09 | Programação Orientada a Objetos (POO)
+| 10 | POO - Classes e Objetos
+| 11 | POO - Herança e Polimorfismo
+| 12 | Estrutura de Dados (ED) - Fundamentos
 | 13 | ED - Pilhas e Filas
 | 14 | ED - Recursividade
-| 14 | ED - Árvores
-| 13 | ED - Ordenação
-|    | GUI - Tkinter
-| -- | Teoria dos Grafos e suas Aplicações
-| -- | Desenvolvimento Web
-| -- | Desenvolvimento de Games em Python
+| 15 | ED - Árvores
+| 16 | ED - Ordenação
+| 17 | GUI - Tkinter
 
 <br>
 
@@ -72,7 +71,11 @@ Programação em Python
 | Capa | Descrição |
 | :-: | --- |
 | <img src="./referencias/capas/DOWNEY-2e_2016.jpg" alt="img" width="100px"> | <sup>[DOWNEY-2e_2016]</sup><br>DOWNEY, Allen; [__Pense em Python__](https://penseallen.github.io/PensePython2e/), tradução da 2. ed., Novatec Editora, 2016.<br><sub>Download (epub): https://github.com/PenseAllen/PensePython2e/raw/master/ebooks/PenseEmPython2e.epub</sub>
-| <img src="./referencias/capas/DOWNEY-2e_2015.jpg" alt="img" width="100px"> | <sup>[DOWNEY-2e_2015]</sup><br>DOWNEY, Allen; <strong>[Think Python, 2. ed.](https://greenteapress.com/wp/think-python-2e/)</strong>, O'Reilly Media, 2016.<br><sub>Download: http://greenteapress.com/thinkpython2/thinkpython2.pdf<br>Resenha: https://www.youtube.com/watch?v=BdwJvs-96YU</sub>
-| <img src="./referencias/capas/DOWNEY-2e_2015.jpg" alt="img" width="100px"> | <sup>[DOWNEY-2e_2015]</sup><br>DOWNEY, Allen; <strong>[Think Python, 2. ed.](https://greenteapress.com/wp/think-python-2e/)</strong>, O'Reilly Media, 2016.<br><sub>Download: http://greenteapress.com/thinkpython2/thinkpython2.pdf<br>Resenha: https://www.youtube.com/watch?v=BdwJvs-96YU</sub>
+| <img src="./referencias/capas/DOWNEY-2e_2015.jpg" alt="img" width="100px"> | <sup>[DOWNEY-2e_2015]</sup><br>DOWNEY, Allen; [__Think Python, 2. ed.__](https://greenteapress.com/wp/think-python-2e/), O'Reilly Media, 2016.<br><sub>Download: http://greenteapress.com/thinkpython2/thinkpython2.pdf<br>Resenha: https://www.youtube.com/watch?v=BdwJvs-96YU</sub>
+| <img src="./referencias/capas/MATTHES-2e_2019.jpg" alt="img" width="100px"> | <sup>[MATTHES-2e_2019]</sup><br>MATTHES, Eric; [__Python Crash Course, 2. ed.__](https://archive.org/details/python-crash-course-a-hands-on-project-based-introduction-to-programming_202204), San Francisco, No Starch Press, 2019.<br><sub>Resenha: https://www.youtube.com/watch?v=ubV-8EYzTyc</sub>
 
-<br>
+&nbsp;
+
+## Bibliografia Complementar
+
+&nbsp;
